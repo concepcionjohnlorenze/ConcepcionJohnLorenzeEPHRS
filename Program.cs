@@ -30,7 +30,7 @@ namespace EPHRS
             bool running = true;
             while (running)
             {
-                Console.WriteLine("\n===== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM =====");
+                Console.WriteLine("\n===== EPHRS - Main Branch =====");
                 Console.WriteLine("[1] Add Employee (Create)");
                 Console.WriteLine("[2] View All Employees (Read)");
                 Console.WriteLine("[3] Search / Filter Employees");
